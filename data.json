@@ -1,6 +1,18 @@
 {
-  "name": "John",
-  "age": 30,
-  "city": "Arh",
-  "hobbies": ["swimming", "reading", "traveling"]
+      "date": "15.11.2024",
+      "client": "Долина Алко",
+      "description": "Печать баннера 2000х1000",
+      "contractors":  [
+        {
+          "task": "Дизайн флаера",
+          "contractor": "ООО Бейкер",
+          "amount": 1200
+        },
+        {
+          "task": "Доставка",
+          "contractor": "Принтлайн",
+          "amount": 400
+        }
+      ],
+      "total_amount": 15000,
 }
