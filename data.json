@@ -1,18 +1,43 @@
-{
-      "date": "15.11.2024",
-      "client": "Долина Алко",
-      "description": "Печать баннера 2000х1000",
-      "contractors":  [
-        {
-          "task": "Дизайн флаера",
-          "contractor": "ООО Бейкер",
-          "amount": 1200
-        },
-        {
-          "task": "Доставка",
-          "contractor": "Принтлайн",
-          "amount": 400
-        }
-      ],
-      "total_amount": 15000
-}
+[
+  {
+    "date": "15.11.2024",
+    "client": "Долина Алко",
+    "description": "Печать баннера 2000х1000",
+    "contractors": [
+      {
+        "task": "Дизайн флаера",
+        "contractor": "ООО Бейкер",
+        "amount": 1200
+      },
+      {
+        "task": "Доставка",
+        "contractor": "Принтлайн",
+        "amount": 400
+      }
+    ],
+    "total_amount": 15000
+  },
+  {
+    "date": "16.11.2024",
+    "client": "ТехноСвет",
+    "description": "Изготовление стенда 3000х1500",
+    "contractors": [
+      {
+        "task": "Дизайн стенда",
+        "contractor": "АртСтудия",
+        "amount": 2500
+      },
+      {
+        "task": "Печать",
+        "contractor": "ПринтПро",
+        "amount": 3500
+      },
+      {
+        "task": "Монтаж",
+        "contractor": "МонтажСервис",
+        "amount": 3000
+      }
+    ],
+    "total_amount": 9000
+  }
+]
