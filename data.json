@@ -18,6 +18,6 @@
       {"task": "Печать"       , "contractor": "ПринтПро"    , "amount": 3500},
       {"task": "Монтаж"       , "contractor": "МонтажСервис", "amount": 3000}
     ],
-    "total_amount": 9000
+    "total_amount": 12000
   }
 ]
