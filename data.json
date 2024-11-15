@@ -46,5 +46,12 @@
     "description": "www",
     "contractors": [],
     "total_amount": 33333
+  },
+  {
+    "date": "11111111111111",
+    "client": "fff",
+    "description": "fff",
+    "contractors": [],
+    "total_amount": 333
   }
 ]
