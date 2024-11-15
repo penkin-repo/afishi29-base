@@ -39,5 +39,12 @@
       }
     ],
     "total_amount": 12000
+  },
+  {
+    "date": "212121",
+    "client": "www",
+    "description": "www",
+    "contractors": [],
+    "total_amount": 33333
   }
 ]
